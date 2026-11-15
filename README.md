@@ -39,3 +39,12 @@ Hey, this is my repository for "The Digital Detective" independent learning assi
 
 ## Note on Commits
 I completed and committed each mission one by one in order, so the commit history clearly shows the progress step by step.
+
+
+## My Learning
+
+During this assignment, I got real hands-on practice with computers:
+1. I traced how data moves through input, CPU/RAM processing, the screen, and storage.
+2. I learned how to use the terminal confidently, using pipes and safe appending (>>).
+3. I converted binary and hex by hand and built a 5-line Python converter.
+4. I practiced Git branching and pull requests to keep changes safe and organized.
