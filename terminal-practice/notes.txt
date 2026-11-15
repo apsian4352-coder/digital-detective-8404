@@ -1,0 +1,2 @@
+First line: Terminal practice file
+Second line: Learning appending using double chevron
